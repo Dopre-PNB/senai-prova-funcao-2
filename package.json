@@ -7,7 +7,6 @@
   "scripts": {
     "start": "node src/app.js",
     "db:create": "node scripts/criar-banco.js",
-    "admin": "node scripts/criar-admin.js",
     "test": "node scripts/testar.js"
   },
   "engines": {
